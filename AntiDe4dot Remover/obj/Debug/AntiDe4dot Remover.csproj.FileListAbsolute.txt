@@ -1,0 +1,7 @@
+E:\repos\AntiDe4dot Remover\bin\Debug\AntiDe4dot Remover.exe.config
+E:\repos\AntiDe4dot Remover\bin\Debug\AntiDe4dot Remover.exe
+E:\repos\AntiDe4dot Remover\bin\Debug\AntiDe4dot Remover.pdb
+E:\repos\AntiDe4dot Remover\bin\Debug\dnlib.dll
+E:\repos\AntiDe4dot Remover\obj\Debug\AntiDe4dot Remover.csproj.CopyComplete
+E:\repos\AntiDe4dot Remover\obj\Debug\AntiDe4dot Remover.exe
+E:\repos\AntiDe4dot Remover\obj\Debug\AntiDe4dot Remover.pdb
